@@ -11,7 +11,7 @@ import requests as http_requests
 # ============================================================
 # CONFIG - ONLY 2 TOKENS
 # ============================================================
-TELEGRAM_BOT_TOKEN = "AAGbeSQRV_EeUOUD1oqDAne0v-m3LQaQjMk"
+TELEGRAM_BOT_TOKEN = "8704577684:AAGbeSQRV_EeUOUD1oqDAne0v-m3LQaQjMk"
 TELEGRAM_CHAT_ID = "6840306598"
 
 # ============================================================
